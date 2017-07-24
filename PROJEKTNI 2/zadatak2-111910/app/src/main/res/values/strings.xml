@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">zadatak2-111910</string>
+    <string name="x">X</string>
+    <string name="greskaKamere">Nemate kameru ili kamera ne radi!!!</string>
+    <string name="greskaUTokuRadaKamere">Iznenada je došlo do greške!!!</string>
+    <string name="senzor">Fali senzor!!!</string>
+
+</resources>
